@@ -97,11 +97,15 @@ customer-churn-analysis/
 ```
 
 
-## 📈 Visualizations
+---
+
+## 📈 Exploratory Data Analysis & Visualizations
+
+The following visualizations were created during the Exploratory Data Analysis (EDA) phase to better understand customer behavior, subscription patterns, and churn trends.
 
 ### 1. Gender Distribution
 
-Shows the distribution of customers by gender.
+Shows the distribution of customers across different gender categories.
 
 ![Gender Distribution](images/gender_distribution.png)
 
@@ -109,7 +113,7 @@ Shows the distribution of customers by gender.
 
 ### 2. Customer Churn Distribution
 
-Shows the proportion of churned and active customers.
+Shows the proportion of active customers and customers who have churned.
 
 ![Customer Churn Distribution](images/churn_distribution.png)
 
@@ -117,9 +121,42 @@ Shows the proportion of churned and active customers.
 
 ### 3. Customer Distribution by Plan
 
-Shows how customers are distributed across different subscription plans.
+Displays how customers are distributed across different subscription plans.
 
 ![Customer Distribution by Plan](images/customer_distribution_by_plan.png)
+
+---
+
+### 4. Monthly Charges Distribution
+
+Illustrates the distribution of monthly subscription charges among customers.
+
+![Monthly Charges Distribution](images/monthly_charges_distribution.png)
+
+---
+
+### 5. CLTV Box Plot
+
+Highlights the distribution of Customer Lifetime Value (CLTV) and identifies potential outliers.
+
+![CLTV Box Plot](images/cltv_box_plot.png)
+
+---
+
+### 6. Correlation Heatmap
+
+Visualizes the correlation between numerical variables to identify important relationships.
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+---
+
+### 7. Yearly Subscription Trend
+
+Shows customer subscription trends over different years.
+
+![Yearly Subscription Trend](images/yearly_subscription_trend.png)
+
 
 
 
