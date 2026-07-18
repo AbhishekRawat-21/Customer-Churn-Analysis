@@ -99,48 +99,27 @@ customer-churn-analysis/
 
 ## 📈 Visualizations
 
-The project includes the following visualizations:
+### 1. Gender Distribution
 
-### Gender Distribution
+Shows the distribution of customers by gender.
 
-(image)
-
----
-
-### Customer Churn Distribution
-
-(image)
+![Gender Distribution](images/gender_distribution.png)
 
 ---
 
-### Customer Distribution by Plan
+### 2. Customer Churn Distribution
 
-(image)
+Shows the proportion of churned and active customers.
 
----
-
-### Monthly Charges Distribution
-
-(image)
+![Customer Churn Distribution](images/churn_distribution.png)
 
 ---
 
-### CLTV Box Plot
+### 3. Customer Distribution by Plan
 
-(image)
+Shows how customers are distributed across different subscription plans.
 
----
-
-### Correlation Heatmap
-
-![Correlation Heatmap](images/correlation_heatmap.png)
-
----
-
-### Yearly Subscription Trend
-
-(image)
-
+![Customer Distribution by Plan](images/customer_distribution_by_plan.png)
 
 
 
