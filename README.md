@@ -17,3 +17,17 @@ The analysis follows the complete Data Analytics workflow:
 - Business Insights
 
 The objective of this project is to transform raw customer data into meaningful business insights that support data-driven decision-making.
+
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Category | Tools |
+|----------|-------|
+| Programming Language | Python, SQL |
+| Database | SQLite |
+| Data Analysis | Pandas, NumPy |
+| Data Visualization | Matplotlib, Seaborn |
+| Development Environment | Jupyter Notebook |
+| Version Control | Git & GitHub |
