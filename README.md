@@ -133,7 +133,7 @@ The project includes the following visualizations:
 
 ### Correlation Heatmap
 
-(image)
+![Correlation Heatmap](images/correlation_heatmap.png)
 
 ---
 
