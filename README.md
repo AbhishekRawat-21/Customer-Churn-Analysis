@@ -157,11 +157,43 @@ Shows customer subscription trends over different years.
 
 ![Yearly Subscription Trend](images/yearly_subscription_trend.png)
 
+---
+
+## 💡 Key Business Insights
+
+- Around **69.7%** of customers are active, while **30.3%** have churned.
+- Customer distribution is fairly balanced across all subscription plans, with approximately **340–370 customers** in each plan.
+- **Monthly Charges** and **Customer Lifetime Value (CLTV)** show a moderate positive correlation (**0.54**), indicating that customers paying higher subscription fees generally contribute greater lifetime value.
+- **Churn Score** has a strong positive correlation (**0.79**) with the **Churn Flag**, making it a reliable indicator of customer churn.
+- A small number of customers have exceptionally high **CLTV (above ₹100,000)**, while the majority fall within a much lower range.
+- Customer subscriptions remained relatively stable over the years, with approximately **190–230 new subscriptions annually**.
+- Male and Female customers are almost equally represented (**396 Female** and **378 Male**).
+- Most customers pay **less than ₹1,000 per month**, while only a small percentage subscribe to premium-priced plans.
+- The average **Customer Satisfaction (CSAT)** score is **3.05/5**, indicating moderate overall customer satisfaction.
 
 
+---
+
+## 🎯 Conclusion
+
+This project demonstrates a complete end-to-end customer churn analysis using **SQLite, SQL, Python, Pandas, NumPy, Matplotlib, and Seaborn**.
+
+The project involved:
+
+- Loading data from a SQLite database.
+- Cleaning and transforming customer, subscription, and support datasets.
+- Creating new features such as **Age**, **Subscription Tenure**, **Annual Charges**, and **Churn Flag**.
+- Performing Exploratory Data Analysis (EDA) and creating visualizations.
+- Writing SQL queries to answer key business questions.
+- Identifying customer behavior patterns and churn-related trends.
+
+The final analysis provides actionable business insights that can help organizations improve customer retention strategies and support data-driven decision-making.
 
 
+--- 
+## 📬 Contact
 
+If you have any suggestions or feedback regarding this project, feel free to connect with me on LinkedIn.
 
 
 
